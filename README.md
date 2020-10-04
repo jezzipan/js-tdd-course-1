@@ -1,6 +1,6 @@
-# Project Title
+# Spotifood
 
-One Paragraph of project description goes here
+iFood Frontend Test
 
 ## Getting Started
 
