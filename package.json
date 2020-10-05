@@ -36,18 +36,26 @@
   "bugs": {
     "url": "https://github.com/jezzipan/ifood-frontend-test/issues"
   },
-  "homepage": "https://github.com/willianjusten/js-tdd-course#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.3.2",
+    "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.24.0",
     "chai": "^3.5.0",
     "eslint": "^4.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.6.1",
+    "fetch": "^1.1.0",
     "husky": "^0.11.9",
     "mocha": "^3.2.0",
+    "node": "^14.13.0",
     "nyc": "^10.2.0",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.6.1",
+    "sinon": "^9.1.0",
+    "sinon-chai": "^3.5.0",
+    "sinon-stub-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
